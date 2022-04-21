@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/margaritas-api-frontend/static/css/main.5e69b327.css",
+    "main.js": "/margaritas-api-frontend/static/js/main.eed3fd1e.js",
+    "static/js/787.3ac0bd3c.chunk.js": "/margaritas-api-frontend/static/js/787.3ac0bd3c.chunk.js",
+    "static/media/food-truck.jpg": "/margaritas-api-frontend/static/media/food-truck.a14d0c3e4d5bb88b62ec.jpg",
+    "index.html": "/margaritas-api-frontend/index.html",
+    "main.5e69b327.css.map": "/margaritas-api-frontend/static/css/main.5e69b327.css.map",
+    "main.eed3fd1e.js.map": "/margaritas-api-frontend/static/js/main.eed3fd1e.js.map",
+    "787.3ac0bd3c.chunk.js.map": "/margaritas-api-frontend/static/js/787.3ac0bd3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e69b327.css",
+    "static/js/main.eed3fd1e.js"
+  ]
+}
